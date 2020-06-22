@@ -5,3 +5,5 @@ In index.html you will see a little bit about me and what I live for. I have inc
 In portfolio.html you will see pictures of myself and my family. I have also included a navigation bar to index.html, portfolio.html, and contact.html. As well as a footer.
 
 In contact.html you will see i have create a contact page using a card through bootstrap to let users know how they can contact me. I have provided my email as well as a link to my linkedin page.
+
+I made sure everything was responsive not only on wepage but also on my cell phone.
