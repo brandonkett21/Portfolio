@@ -41,6 +41,12 @@ header .overlay {
   padding-top: 10px;
   font-weight: bold;
 }
+.card {
+  display: inline-block;
+}
+.cards {
+  display: inline-block;
+}
 @media (pointer: coarse) and (hover: none) {
   header {
     background: url("https://source.unsplash.com/XT5OInaElMw/1600x900") black
